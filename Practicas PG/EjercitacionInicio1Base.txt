@@ -1,0 +1,60 @@
+¿Por qué nació Node ?¿Para qué sirve ?
+    Respuesta : Porque era muy complejo con Ruby y otros lenguajes.
+Enlaces para leer:
+5) "https://nodejs.dev/a-brief-history-of-nodejs"
+a)
+6) Enlace 2
+a) Descripción del enlace
+
+¿Cuál es la diferencia entre Node y NPM ?
+    Respuesta :
+    Enlaces para leer:
+1) Enlace 1
+a) Descripción del enlace
+2) Enlace 2
+a) Descripción del enlace
+
+¿Qué es un módulo en el ambiente de Node ?
+    Respuesta :
+    Enlaces para leer:
+1) "https://www.tutorialsteacher.com/nodejs/nodejs-modules"
+a) Descripción del enlace
+2) Enlace 2
+a) Descripción del enlace
+
+Si se tuviera que definir el tipo de dato de un módulo requerido,
+¿qué dato sería ?
+    Respuesta :
+    Enlaces para leer:
+1) "https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures"
+a) Muestra que son los datos y para que sirven
+2) Enlace 2
+a) Descripción del enlace
+
+Dentro del entorno client / server ¿Qué diferencia a un cliente de
+un servidor ?
+
+    Respuesta :
+    Enlaces para leer:
+1) "https://stackoverflow.com/a/11679722"
+a) El enlace define cliente y servidor.
+5
+2) "sites.google.com/site/infor4sanandres/diferencias-entre-cliente-y-servidor"
+a) El enlace explica claramente las diferencias entre cliente y servidor
+
+¿Para qué sirve el protocolo HTTP ?
+
+    Respuesta :
+    Enlaces para leer:
+1) "https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto "
+a) Descripción del enlace
+2) Enlace 2
+a) Descripción del enlace
+
+¿Cuales son lo métodos más usados dentro del protocolo HTTP?
+Respuesta: 
+    Enlaces p ara leer:
+    1) "https://developer.mozilla.org/es/docs/Web/HTTP/Methods"
+a) Descripción del enlace
+2) Enlace 2
+a) Descripción del enlace
